@@ -1,0 +1,297 @@
+INFO 2024-09-29 00:53:32,738 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-29 00:53:48,331 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:53:48,331 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 00:54:08,179 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:54:08,180 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 00:54:49,355 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:54:49,356 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 00:55:07,756 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:55:07,757 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 00:55:29,308 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:55:29,309 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 00:55:50,142 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:55:50,143 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 00:55:53,563 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:55:54,684 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:56:07,657 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:56:08,441 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:56:14,018 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:56:14,921 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:56:17,457 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:56:18,340 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:56:20,843 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:56:21,726 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:56:23,232 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:56:24,054 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:56:29,640 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:56:30,551 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:57:27,640 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:57:28,611 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:57:33,539 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:57:34,464 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:57:36,156 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:57:37,048 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:57:38,704 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:57:39,530 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:57:43,428 basehttp "GET /api/inventory/1 HTTP/1.1" 301 0
+WARNING 2024-09-29 00:57:43,433 log Unauthorized: /api/inventory/1/
+WARNING 2024-09-29 00:57:43,434 basehttp "GET /api/inventory/1/ HTTP/1.1" 401 58
+WARNING 2024-09-29 00:57:51,392 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:57:51,393 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 00:58:04,679 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:58:04,680 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 00:58:05,370 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:58:06,346 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:58:09,628 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:58:10,535 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:58:12,061 basehttp "GET /api/inventory/1 HTTP/1.1" 301 0
+INFO 2024-09-29 00:58:12,179 basehttp "GET /api/inventory/1/ HTTP/1.1" 200 168
+WARNING 2024-09-29 00:58:22,924 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:58:22,925 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 00:58:35,324 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:58:36,274 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 00:58:38,063 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 00:58:38,953 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-29 00:58:52,071 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:58:52,072 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 00:59:03,043 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:59:03,046 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 00:59:23,775 log Not Found: /socketcluster/
+WARNING 2024-09-29 00:59:23,776 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:00:22,127 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:00:22,132 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:00:38,181 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:00:38,182 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 01:00:50,664 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 01:00:52,087 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:02:03,731 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\urls.py changed, reloading.
+INFO 2024-09-29 01:02:04,549 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:02:05,904 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\urls.py changed, reloading.
+INFO 2024-09-29 01:02:06,825 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:02:20,564 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\urls.py changed, reloading.
+INFO 2024-09-29 01:02:21,464 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:02:22,897 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\urls.py changed, reloading.
+INFO 2024-09-29 01:02:23,958 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-29 01:02:24,751 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:02:24,751 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 01:02:36,220 basehttp "POST /api/signup/ HTTP/1.1" 201 39
+WARNING 2024-09-29 01:02:45,281 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:02:45,282 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 01:02:59,218 basehttp "POST /api/loginup/ HTTP/1.1" 200 495
+WARNING 2024-09-29 01:03:02,492 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:03:02,493 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:03:24,408 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:03:24,408 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:03:39,484 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:03:39,485 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:03:55,276 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:03:55,277 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:04:24,985 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:04:24,987 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:04:42,020 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:04:42,021 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:05:05,652 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:05:05,652 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:05:25,774 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:05:25,775 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:05:43,004 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:05:43,005 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:06:05,107 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:06:05,108 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:06:26,371 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:06:26,372 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:06:42,114 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:06:42,115 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:07:02,704 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:07:02,704 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:07:27,161 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:07:27,161 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:07:45,389 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:07:45,389 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:08:27,710 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:08:27,711 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:08:41,357 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:08:41,358 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:09:02,982 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:09:02,982 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:09:28,308 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:09:28,308 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 01:09:38,555 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\urls.py changed, reloading.
+INFO 2024-09-29 01:09:39,721 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:10:50,218 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\urls.py changed, reloading.
+INFO 2024-09-29 01:10:51,205 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-29 01:11:30,069 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:11:30,070 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 01:11:30,076 basehttp - Broken pipe from ('127.0.0.1', 63104)
+INFO 2024-09-29 01:11:33,082 basehttp "GET /api/inventory/1 HTTP/1.1" 301 0
+WARNING 2024-09-29 01:11:33,088 log Unauthorized: /api/inventory/1/
+WARNING 2024-09-29 01:11:33,089 basehttp "GET /api/inventory/1/ HTTP/1.1" 401 58
+WARNING 2024-09-29 01:11:45,970 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:11:45,971 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:12:01,842 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:12:01,842 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 01:12:04,541 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 01:12:05,771 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:12:08,512 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 01:12:09,402 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:12:10,624 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 01:12:11,454 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:12:16,348 basehttp "GET /api/inventory/1 HTTP/1.1" 301 0
+INFO 2024-09-29 01:12:16,429 basehttp "GET /api/inventory/1/ HTTP/1.1" 200 168
+INFO 2024-09-29 01:12:27,386 basehttp "GET /api/inventory/1 HTTP/1.1" 301 0
+INFO 2024-09-29 01:12:27,390 basehttp "GET /api/inventory/1/ HTTP/1.1" 200 168
+WARNING 2024-09-29 01:12:30,620 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:12:30,620 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+ERROR 2024-09-29 01:12:41,019 log Internal Server Error: /api/inventory/1
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\assigment\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\Desktop\assigment\.venv\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\Desktop\assigment\.venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\Desktop\assigment\.venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via PUT, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PUT data. Change your form to point to 127.0.0.1:8000/api/inventory/1/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-09-29 01:12:41,021 basehttp "PUT /api/inventory/1 HTTP/1.1" 500 69198
+WARNING 2024-09-29 01:12:47,953 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:12:47,954 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:13:06,715 log Bad Request: /api/inventory/1/
+WARNING 2024-09-29 01:13:06,716 basehttp "PUT /api/inventory/1/ HTTP/1.1" 400 109
+WARNING 2024-09-29 01:13:11,337 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:13:11,337 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 01:13:18,556 basehttp "PUT /api/inventory/1/ HTTP/1.1" 200 169
+INFO 2024-09-29 01:13:24,723 basehttp "PUT /api/inventory/1/ HTTP/1.1" 200 171
+WARNING 2024-09-29 01:13:31,302 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:13:31,302 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:13:43,302 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:13:43,303 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:14:06,071 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:14:06,072 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:14:31,897 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:14:31,897 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:14:44,875 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:14:44,876 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:15:09,731 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:15:09,731 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:15:32,533 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:15:32,533 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:15:40,305 log Unauthorized: /api/InventoryCreateItems/
+WARNING 2024-09-29 01:15:40,305 basehttp "POST /api/InventoryCreateItems/ HTTP/1.1" 401 58
+WARNING 2024-09-29 01:15:48,362 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:15:48,363 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:16:06,703 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:16:06,704 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 01:16:06,712 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 01:16:07,931 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:16:14,305 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 01:16:15,335 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 01:16:17,586 autoreload C:\Users\Asus\Desktop\assigment\Inventory\Inventory_data\views.py changed, reloading.
+INFO 2024-09-29 01:16:18,551 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-29 01:16:21,143 log Bad Request: /api/InventoryCreateItems/
+WARNING 2024-09-29 01:16:21,143 basehttp "POST /api/InventoryCreateItems/ HTTP/1.1" 400 58
+INFO 2024-09-29 01:16:27,305 basehttp "POST /api/InventoryCreateItems/ HTTP/1.1" 200 168
+WARNING 2024-09-29 01:16:33,137 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:16:33,143 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+INFO 2024-09-29 01:16:33,144 basehttp - Broken pipe from ('127.0.0.1', 63982)
+WARNING 2024-09-29 01:16:46,037 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:16:46,037 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:17:02,003 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:17:02,004 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:17:33,722 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:17:33,723 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:17:53,554 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:17:53,555 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:18:09,297 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:18:09,298 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:18:35,175 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:18:35,175 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:18:48,723 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:18:48,724 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:19:07,954 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:19:07,955 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:19:36,404 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:19:36,405 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:19:55,698 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:19:55,699 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:20:36,942 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:20:36,942 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:20:53,464 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:20:53,465 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:21:17,155 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:21:17,156 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:21:37,496 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:21:37,498 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:21:56,833 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:21:56,834 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:22:38,070 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:22:38,071 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:22:52,854 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:22:52,854 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:23:38,629 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:23:38,629 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:23:52,289 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:23:52,290 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:24:08,740 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:24:08,741 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:24:39,647 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:24:39,656 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:24:51,937 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:24:51,938 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:25:08,104 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:25:08,105 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:25:40,757 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:25:40,758 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:25:53,154 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:25:53,155 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:26:20,100 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:26:20,100 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:26:41,315 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:26:41,315 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:26:58,816 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:26:58,816 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:27:41,892 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:27:41,893 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:27:54,154 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:27:54,154 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:28:22,769 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:28:22,770 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:28:42,515 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:28:42,531 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:29:02,142 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:29:02,142 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:29:43,222 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:29:43,223 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:30:02,007 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:30:02,007 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:30:43,830 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:30:43,831 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:30:56,712 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:30:56,713 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 01:31:18,467 log Not Found: /socketcluster/
+WARNING 2024-09-29 01:31:18,468 basehttp "GET /socketcluster/ HTTP/1.1" 404 2367
+WARNING 2024-09-29 02:11:07,685 log Bad Request: /api/loginup/
+INFO 2024-09-29 13:55:39,207 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-29 14:06:19,067 log Not Found: /api/inventory/2/
+WARNING 2024-09-29 14:06:23,212 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:07:35,892 log Not Found: /api/inventory/2/
+WARNING 2024-09-29 14:07:40,231 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:10:03,781 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:12:33,326 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:14:14,977 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:16:05,938 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:16:43,556 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:17:12,408 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:22:13,099 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:23:58,735 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:24:21,476 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:25:14,554 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:29:01,986 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:30:03,945 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:31:25,529 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:33:28,021 log Bad Request: /api/loginup/
+WARNING 2024-09-29 14:36:46,819 log Not Found: /api/inventory/2/
+WARNING 2024-09-29 14:36:51,213 log Bad Request: /api/loginup/
